@@ -1,5 +1,5 @@
 
-##Upgrading Ubuntu 18.04LTS to 20.04LTS
+# Upgrading Ubuntu 18.04LTS to 20.04LTS
 
 Bootable usb stick prepared using rufus. Detail steps at https://rufus.ie/
 
